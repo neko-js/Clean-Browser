@@ -26,6 +26,7 @@ Type `about:config` in URL bar and set following parameters.
 |full-screen-api.transition-duration.enter | 0 0 | | Remove fullscreen transitions (slow). |
 |full-screen-api.transition-duration.leave | 0 0 | | Remove fullscreen transitions (slow). |
 |full-screen-api.warning.timeout | 0 | | Remove fullscreen warning. |
+| ui.prefersReducedMotion | 1 | Number | Remove fullscreen transitions (slow). See [this thread](https://www.reddit.com/r/firefox/comments/j9agb3/disable_the_fullscreen_animation_in_firefox_80/).
 
 ## FAQ
 
