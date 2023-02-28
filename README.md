@@ -16,7 +16,7 @@ Install these basic add-ons from [this collection](https://addons.mozilla.org/en
 - [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=collection): Block annoying cookie popups. This is the open source version of "I don't care about cookies".
 - [Improve YouTube! (Open-Source for YouTube)](https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=collection): Youtube feels slow in Firefox. This add-on fixes that.
 
-### about:config settings
+### Set about:config Settings
 
 Type `about:config` in URL bar and set following parameters.
 
