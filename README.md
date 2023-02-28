@@ -1,4 +1,4 @@
-# Clean Browser
+# Clean Firefox Installation
 
 Most modern browsers are up to no good, mostly for privacy reasons, but some also fail to satisfy in user experience. This document provides a rough guidance on how to install Firefox so that it is up to par with other browsers.
 
@@ -38,4 +38,4 @@ Type `about:config` in URL bar and set following parameters.
 - Opera GX: Closed source by China
 - Edge: Add-Ons
 - Chromium: No Sync
-- Every other browser: Either add-ons, sync, mobile versions are missing or terrible user experience
+- Every other browser: Choose at least one: slow updates, closed source, missing add-ons, missing sync, missing mobile versions, terrible user experience
