@@ -30,6 +30,15 @@ Type `about:config` in URL bar and set following parameters.
 
 ## Installation for Mobile Devices
 
+Install [Firefox Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix&hl=de&gl=US) on Android, [Firefox](https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926) on iPhone.
+
+The normal version has restricted add-on support. The nightly version supports add-on installation via collections. The debug menu needs to activated for this (see [here](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) for details):
+
+* Go to Settings > About Firefox Nightly > Tap the logo five times
+* Go to Settings > Custom Add-on Collection
+* Enter `12599599` and `MyAddons` (the collection mentioned above). Application will restart.
+* Go to Settings > Add-ons to install at least "uBlock Origin" and "I still don't care about cookies" 
+
 ## FAQ
 
 ### Why not other browsers?
