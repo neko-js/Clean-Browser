@@ -22,7 +22,7 @@ Type `about:config` in URL bar and set following parameters.
 
 | Setting | Value | Type |Note |
 |:- |:-:|:-:|:- |
-|browser.tabs.tabMinWidth| 0 | | Make tabs squishy |
+|browser.tabs.tabMinWidth| 0 | | Make tabs squishy. |
 |full-screen-api.transition-duration.enter | 0 0 | | Remove fullscreen transitions (slow). |
 |full-screen-api.transition-duration.leave | 0 0 | | Remove fullscreen transitions (slow). |
 |full-screen-api.warning.timeout | 0 | | Remove fullscreen warning. |
