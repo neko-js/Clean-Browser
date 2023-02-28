@@ -48,7 +48,7 @@ The normal version has restricted add-on support. The nightly version supports a
 - Vivaldi: Closed source
 - Chrome: Closed source by Google
 - Opera GX: Closed source by China
-- Edge: Add-Ons
+- Edge: Missing Add-Ons
 - Chromium: No Sync
 - Every other browser: Choose at least one: slow updates, closed source, missing add-ons, missing sync, missing mobile versions, terrible user experience
 
