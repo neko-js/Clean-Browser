@@ -39,3 +39,21 @@ Type `about:config` in URL bar and set following parameters.
 - Edge: Add-Ons
 - Chromium: No Sync
 - Every other browser: Choose at least one: slow updates, closed source, missing add-ons, missing sync, missing mobile versions, terrible user experience
+
+### How to install Firefox ESR on Ubuntu?
+
+Add the PPA:
+
+```bash
+sudo add-apt-repository ppa:mozillateam/ppa
+```
+Refresh package cache:
+
+```bash
+sudo apt update
+```
+Install Firefox ESR:
+
+```bash
+sudo apt install firefox-esr
+```
