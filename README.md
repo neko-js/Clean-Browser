@@ -37,7 +37,7 @@ The normal version has restricted add-on support. The nightly version supports a
 * Go to Settings > About Firefox Nightly > Tap the logo five times
 * Go to Settings > Custom Add-on Collection
 * Enter `12599599` and `MyAddons` (the collection mentioned above). Application will restart.
-* Go to Settings > Add-ons to install at least "uBlock Origin" and "I still don't care about cookies" 
+* Go to Settings > Add-ons to install at least "uBlock Origin" and "I still don't care about cookies".
 
 ## FAQ
 
